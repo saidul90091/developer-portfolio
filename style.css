@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.header-banner{
+   display: flex;
+}
+.half-width{
+    width: 50%;
+    margin: 20px;
+    padding: 20px;
+}
+.half-width img{
+    width: 100%;
+}
+#heading{
+    color:tomato;
+}
+.link-button{
+    background-image: linear-gradient(45deg, rgb(239, 117, 95), rgb(244, 43, 7));
+    padding: 10px 20px;
+    color:white;
+    font-weight: bold;
+    border-radius: 5px;
+    text-decoration:none;
+    
+    
+}
